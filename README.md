@@ -1,5 +1,5 @@
 # Inverse Laplace Transforms 
-ilt.jl contains methods to invert Laplace transforms in the Abate-Whitt framework
+ilt.jl contains methods to invert Laplace transforms in the Abate-Whitt framework. 
 InverseLaplace.ipynb is a notebook I used for a talk and contains some examples.
 
 Credit to Abate-Whitt http://www.columbia.edu/~ww2040/allpapers.html. Tucker McClure. And the related MATLAB code for code off which the Talbot method here is based.
